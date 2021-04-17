@@ -20,10 +20,10 @@
       "facebook_interstitial_id" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
       "facebook_native_id" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
     },
-    "mode_ads_banner" : "facebook",
-    "mode_ads_interstitial" : "facebook",
+    "mode_ads_banner" : "admob",
+    "mode_ads_interstitial" : "admob",
     "mode_ads_native_enabled" : true,
-    "mode_ads_rewarded" : "facebook",
+    "mode_ads_rewarded" : "admob",
     "mode_button_ads_action" : "0",
     "unity" : {
       "unity_app_id" : "",
@@ -49,7 +49,14 @@
       "state" : "free",
       "title" : "NICOO APP",
       "description" : "",
-      "written" : "Tips written 0"
+      "written" : {
+        " Nicoo app is a company that aims to provide accessories and gifts for Free Fire gamers. Found in 2020, our vision is to bring more happiness and convenience to the world, especially the gaming player."
+        " Nico app is an application that helps you get a better in-game experience."
+        " Nico app is an application that helps you get a better in-game experience. When you enter the FF game ... high-quality recommendations."
+        " Looking for beautiful skins and new items? you are in the right place. in this Nico app guide, you learn more about magic."
+        " Our guide through tips to get all that you want for Nico app FF, it's just a few steps to unlock all your gift skins and items!"
+        " Get also all pieces of information you want about new items."
+         }
     },
     {
       "id" : 1,

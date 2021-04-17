@@ -20,10 +20,10 @@
       "facebook_interstitial_id" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
       "facebook_native_id" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
     },
-    "mode_ads_banner" : "admob",
-    "mode_ads_interstitial" : "admob",
+    "mode_ads_banner" : "facebook",
+    "mode_ads_interstitial" : "facebook",
     "mode_ads_native_enabled" : true,
-    "mode_ads_rewarded" : "admob",
+    "mode_ads_rewarded" : "facebook",
     "mode_button_ads_action" : "0",
     "unity" : {
       "unity_app_id" : "",
@@ -45,75 +45,75 @@
   "posts" : [
    {
       "id" : 0,
-      "imageURL" : "https://dadamou.github.io/Nicoo/1024-500.png",
+      "imageURL" : "https://dadamou.github.io/Nicoo/title.png",
       "state" : "free",
-      "title" : "Tips",
+      "title" : "NICOO APP",
       "description" : "",
       "written" : "Tips written 0"
     },
     {
       "id" : 1,
-      "imageURL" : "https://dadamou.github.io/Nicoo/1024-500.png",
+      "imageURL" : "https://dadamou.github.io/Nicoo/About%20Nicoo%20App.png",
       "state" : "free",
-      "title" : "Tips title 1",
+      "title" : "ABOUT NICOO APP",
       "description" : "",
-      "written" : "Tips written 1"
+      "written" : "Nicoo App is an application that helps you get a better in-game experience for free fire. When you enter the game through this app, you will find many surprises and gifts that we have provided for you. You no longer need to spend money, but you can still get free diamonds and skins in the game."
     },
     {
       "id" : 2,
-      "imageURL" : "https://dadamou.github.io/Nicoo/1024-500.png",
+      "imageURL" : "https://dadamou.github.io/Nicoo/What%20is%20Nicoo%20App.png",
       "state" : "free",
-      "title" : "Tips title 2",
+      "title" : "What is Nicoo App?",
       "description" : "",
-      "written" : "Tips written 2"
+      "written" : "Nicoo App is an application that helps you get a better in-game experience for free fire. When you enter the game through this app, you will find many surprises and gifts that we have provided for you. You no longer need to spend money, but you can still get free diamonds and skins in the game."
     },
     {
       "id" : 3,
-      "imageURL" : "https://dadamou.github.io/Nicoo/1024-500.png",
+      "imageURL" : "https://dadamou.github.io/Nicoo/How%20to%20use%20Nicoo%20App%20.png",
       "state" : "free",
-      "title" : "Tips title 3",
+      "title" : "How to use Nicoo App ?",
       "description" : "",
-      "written" : "Tips written 3"
+      "written" : "Track Steps: STEP1; STEP 2; STEP 3; STEP 4."
     },
     {
       "id" : 4,
-      "imageURL" : "https://dadamou.github.io/Nicoo/1024-500.png",
+      "imageURL" : "https://dadamou.github.io/Nicoo/STEP1.png",
       "state" : "free",
-      "title" : "Tips title 4",
+      "title" : "STEP 1",
       "description" : "",
-      "written" : "Tips written 4"
+      "written" : "Make sure you've downloaded the resources in the game's download center, then download and open the Nicoo App. Click the button above to start FF."
     },
     {
       "id" : 5,
-      "imageURL" : "https://dadamou.github.io/Nicoo/1024-500.png",
+      "imageURL" : "https://dadamou.github.io/Nicoo/STEP2.png",
       "state" : "free",
-      "title" : "Tips title 5",
+      "title" : "STEP 2",
       "description" : "",
-      "written" : "Tips written 5"
+      "written" : "Choose the skin via the floating window. You can also try the skins from the store. We will remember your choices and you can see them after you return to the lobby."
     },
     {
       "id" : 6,
-      "imageURL" : "https://dadamou.github.io/Nicoo/1024-500.png",
+      "imageURL" : "https://dadamou.github.io/Nicoo/STEP3.png",
       "state" : "free",
-      "title" : "Tips title 6",
+      "title" : "STEP 3",
       "description" : "",
-      "written" : "Tips written 6"
+      "written" : "Enter the battle, then you can see the skins"
     },
     {
       "id" : 7,
-      "imageURL" : "https://dadamou.github.io/Nicoo/1024-500.png",
+      "imageURL" : "https://dadamou.github.io/Nicoo/STEP4.png",
       "state" : "free",
-      "title" : "Tips title 7",
+      "title" : "STEP 4",
       "description" : "",
-      "written" : "Tips written 7"
+      "written" : "More function: You can also change the crosshair when you enter the battlefield."
     },
     {
-      "id" : 8,
-      "imageURL" : "https://dadamou.github.io/Nicoo/1024-500.png",
+      "id" : 7,
+      "imageURL" : "https://dadamou.github.io/Nicoo/DISCLAIMER.png",
       "state" : "free",
-      "title" : "Tips title 8",
+      "title" : "DISCLAIMER",
       "description" : "",
-      "written" : ""
+      "written" : "This is not a NICOO APP official app, This is an UNOFFICIAL NICOO APP guide created by fans, not associated or affiliated with developers of any app or any of their partners"
     }
   ]
 }

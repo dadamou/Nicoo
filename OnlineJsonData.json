@@ -7,9 +7,9 @@
     },
     "admob" : {
       "admob_banner_id" : "",
-      "admob_interstitial_id" : "ca-app-pub-9565218898651576/5750028626",
-      "admob_native_id" : "ca-app-pub-9565218898651576/7079422167",
-      "admob_rewarded_id" : "ca-app-pub-9565218898651576/1635523795",
+      "admob_interstitial_id" : "ca-app-pub-6552403043822494/1228129999",
+      "admob_native_id" : "ca-app-pub-6552403043822494/3471149956",
+      "admob_rewarded_id" : "ca-app-pub-6552403043822494/2349639979",
       "admob_unit_id" : ""
     },
     "appodeal" : {
